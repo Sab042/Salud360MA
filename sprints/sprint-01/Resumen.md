@@ -13,3 +13,5 @@ En este primer Sprint el equipo se enfoca en establecer las bases de la aplicaci
 
 ## Estado del Sprint
 En desarrollo activo.
+
+
